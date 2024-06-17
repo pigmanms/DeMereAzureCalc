@@ -5,9 +5,9 @@ function solveDeMereProblem() {
   const doubleDiceProbability = simulateDoubleDice(tryDiceTimes);
 
   document.getElementById('singleDiceResult').textContent = 
-    `Probability of getting at least one 6 in 4 rolls of a single die: ${singleDiceProbability.toFixed(5)}`;
+    `주사위 한개를 4번 던져서 적어도 한번 6이 나올 확률: ${singleDiceProbability.toFixed(5)}`;
   document.getElementById('doubleDiceResult').textContent = 
-    `Probability of getting at least one (6, 6) in 24 rolls of two dice: ${doubleDiceProbability.toFixed(5)}`;
+    `주사위 두개를 24번 던져서 적어도 한번 (6, 6)이 나올 확률: ${doubleDiceProbability.toFixed(5)}`;
 }
 
 function simulateSingleDice(tryDiceTimes) {
