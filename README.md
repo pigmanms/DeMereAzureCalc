@@ -1,4 +1,10 @@
-# DeMereAzureCalc
-확률과통계 부문에서 유명한 문제인 드메레의 득점문제의 계산기 입니다. Azure Static Web App 서비스를 통하여 호스팅 됩니다. 
+# DeMere Problem Calculator
+확률과통계 부문에서 유명한 문제인 드메레의 득점문제의 웹 계산기 입니다. 
+주사위를 원하는 번수 만큼 던져주어 '통계적 확률'을 구해줍니다. 
 
-애져 안쓰고 걍 Github Pages를 쓰기로 했어요. 
+- [빠른연산] Github Pages 호스팅 링크: https://pigmanms.github.io/DeMereAzureCalc/ 
+- [대체링크] Azure Static Web App 호스팅 링크: https://calm-rock-084ae2400.5.azurestaticapps.net/
+
+<br><br>
+현재 아직 Client-side scripting 방식으로 서버에서 연산을 해주는게 아니라서 개인의 기기에 따라서 다소 연산속도가 달라질 수도 있습니다. <br>
+Server-side scripting의 실현을 위하여 백엔드 개발을 하고 있으니 To be continued...
