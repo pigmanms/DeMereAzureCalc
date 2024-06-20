@@ -1,0 +1,50 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+.container {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  text-align: center;
+  margin: auto;
+}
+
+input, button {
+  margin-top: 10px;
+  padding: 10px;
+  font-size: 1em;
+}
+
+footer {
+  padding: 10px;
+  background-color: #fff;
+  width: 100%;
+  text-align: center;
+  box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.1);
+}
+
+footer p {
+  margin: 5px 0;
+  font-size: 0.8em;
+  color: #777;
+}
+
+footer a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
