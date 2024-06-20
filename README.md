@@ -2,7 +2,7 @@
 확률과통계 부문에서 유명한 문제인 드메레의 득점문제의 웹 계산기 입니다. 
 주사위를 원하는 번수 만큼 던져주어 '통계적 확률'을 구해줍니다. 
 
-- [기본링크] Github Pages 호스팅 링크: <a href="pigmanms.github.io/DeMereCalculator/ " target="_blank">pigmanms.github.io/DeMereCalculator/ </a>
+- [기본링크] Github Pages 호스팅 링크: <a href="https://pigmanms.github.io/DeMereCalculator/ " target="_blank">https://pigmanms.github.io/DeMereCalculator/ </a>
 - [대체링크] Azure Static Web App 호스팅 링크: <a href="https://calm-rock-084ae2400.5.azurestaticapps.net/" target="_blank">https://calm-rock-084ae2400.5.azurestaticapps.net/</a>
 
 <br><br>
